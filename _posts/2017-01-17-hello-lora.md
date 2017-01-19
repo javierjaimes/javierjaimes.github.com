@@ -46,6 +46,6 @@ Terminaré con algunos sitios de referencia que sean de utilidad par todos:
 
 * [Semtech Lora Website](http://www.semtech.com/wireless-rf/internet-of-things/)
 * [LoRa Alliance](https://www.lora-alliance.org)
-* [LoRaWAN Architecture] http://www.3glteinfo.com/lora/lora-architecture/
+* [LoRaWAN Architecture](http://www.3glteinfo.com/lora/lora-architecture/)
 * [LoRaWAN for Arduino, Raspberry PI & Waspmote](https://www.cooking-hacks.com/documentation/tutorials/lorawan-for-arduino-raspberry-pi-waspmote-868-900-915-433-mhz/)
 * [A Comparison of LPWAN Technologies](http://www.digi.com/blog/iot/lpwan-technology-comparison/)
